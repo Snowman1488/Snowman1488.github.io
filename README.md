@@ -1,2 +1,2 @@
-# snowman1488.github.io
+# Snowman1488.github.io
 # This is a trial website for educational purpose.
